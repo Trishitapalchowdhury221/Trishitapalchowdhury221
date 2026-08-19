@@ -293,34 +293,59 @@ My current focus is on turning ideas into working projects, learning from every 
 > 🌱 **Build today. Learn every day. Compete tomorrow.**
 
 
-## 📊 GitHub Statistics
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trishitapalchowdhury221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trishitapalchowdhury221&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Trishitapalchowdhury221&theme=tokyonight&hide_border=true" />
-</p>
-# 📊 My Developer Mindset
+# 📊 GitHub Statistics
 
 <div align="center">
 
-|       🧠 Learn       |         🛠️ Build        |       🐛 Debug      |      🚀 Improve     |
-| :------------------: | :----------------------: | :-----------------: | :-----------------: |
-| Explore new concepts | Turn ideas into projects | Learn from mistakes | Keep moving forward |
+<img src="https://github-readme-stats.vercel.app/api?username=Trishitapalchowdhury221&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trishitapalchowdhury221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
-> **"Don't compare your beginning with someone else's middle."**
+---
 
-I'm focusing on progress rather than perfection — learning consistently, building projects, and improving one step at a time.
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Trishitapalchowdhury221&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Trishitapalchowdhury221&bg_color=0d1117&color=58a6ff&line=2ea043&point=bc8cff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 💻 GitHub Profile Summary
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Trishitapalchowdhury221&color=58a6ff&style=for-the-badge)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Trishita%20Palchowdhury-181717?style=for-the-badge&logo=github)](https://github.com/Trishitapalchowdhury221)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 Learn → 🛠️ Build → 🐛 Debug → 🚀 Improve
+
+**Every project is a step forward.**
+
+</div>
 # 🌱 Beyond the Code
 
 Technology is more than just writing programs for me.
