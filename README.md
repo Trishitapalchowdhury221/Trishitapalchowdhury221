@@ -307,11 +307,21 @@ My current focus is on turning ideas into working projects, learning from every 
 
 ---
 
-# 🔥 GitHub Streak
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Trishitapalchowdhury221&theme=tokyonight&hide_border=true" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Trishitapalchowdhury221&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  height="180"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trishitapalchowdhury221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="180"
+/>
 
 </div>
 
@@ -321,9 +331,20 @@ My current focus is on turning ideas into working projects, learning from every 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Trishitapalchowdhury221&bg_color=0d1117&color=58a6ff&line=2ea043&point=bc8cff&area=true&hide_border=true" width="100%"/>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Trishitapalchowdhury221&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"
+  width="100%"
+/>
 
 </div>
+
+<div align="center">
+
+<i>Every contribution is a step forward 🚀</i>
+
+</div>
+
+---
 
 ---
 
