@@ -87,9 +87,8 @@ I enjoy building projects, experimenting with new technologies, participating in
                            │
                            ▼
                   🚀 Building Real Projects
-                           │
-                           ▼
-                 🎯 Internship & Career
+                           
+                 
 ```
 
 ### 🧭 From Learning Syntax to Building Solutions
@@ -294,11 +293,11 @@ My current focus is on turning ideas into working projects, learning from every 
 > 🌱 **Build today. Learn every day. Compete tomorrow.**
 
 
-# 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Trishitapalchowdhury221&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Trishitapalchowdhury221&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trishitapalchowdhury221&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages">
 
@@ -306,15 +305,13 @@ My current focus is on turning ideas into working projects, learning from every 
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Trishitapalchowdhury221&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=Trishitapalchowdhury221&hide_border=true" alt="GitHub Streak">
 
 </div>
-
----
 
 # 📊 My Developer Mindset
 
