@@ -293,7 +293,6 @@ My current focus is on turning ideas into working projects, learning from every 
 > 🌱 **Build today. Learn every day. Compete tomorrow.**
 
 
----
 
 
 
